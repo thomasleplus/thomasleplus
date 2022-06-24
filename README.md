@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thomasleplus/thomasleplus/blob/main/banner.jpg?raw=true" alt="Banner"/>
+</p>
+
 # Hi there 👋
 
 You can find my open source projects [here](https://github.com/thomasleplus?tab=repositories). I also have other projects incubating [here](https://github.com/leplusorg?tab=repositories).
