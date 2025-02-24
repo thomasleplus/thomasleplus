@@ -13,6 +13,5 @@ If you want to know more about me or contact me, you can find me on:
 - [my site](https://www.leplus.org) 🏠
 - [my resume](https://www.leplus.org/files/resume.pdf) 📜
 - [LinkedIn](https://www.linkedin.com/in/thomasleplus) 💼
-- [X](https://twitter.com/thomasleplus) 🐦
 
 [Repos status dashboard](https://github.com/thomasleplus/actions-dashboard/blob/main/dashboard.md)
