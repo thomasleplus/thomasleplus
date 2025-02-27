@@ -6,7 +6,7 @@
 
 You can find my released GitHub projects [here](https://github.com/leplusorg?tab=repositories). I also have other incubating projects [here](https://github.com/thomasleplus?tab=repositories).
 
-You can find my contributions to various other projects [here](https://github.com/search?q=is%3Apr+author%3Athomasleplus+-user%3Aleplusorg+-user%3Athomasleplus+-user%3Agarcialeplus+-user%3Aruageek+-user%3Awotlocom&type=pullrequests).
+I am a proud member and contributor to the [OpenSSF (Linux Foundation)](https://openssf.org), the [OWASP](https://owasp.org), and the [Apache Foundation](https://www.apache.org). You can find my contributions to various other Open Source projects [here](https://github.com/search?q=is%3Apr+author%3Athomasleplus+-user%3Aleplusorg+-user%3Athomasleplus+-user%3Agarcialeplus+-user%3Aruageek+-user%3Awotlocom&type=pullrequests).
 
 If you want to know more about me or contact me, you can find me on:
 
