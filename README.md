@@ -14,4 +14,4 @@ If you want to know more about me or contact me, you can find me on:
 - [my resume](https://www.leplus.org/files/resume.pdf) 📜
 - [LinkedIn](https://www.linkedin.com/in/thomasleplus) 💼
 
-[![Repos status dashboard](https://img.shields.io/badge/Repos%20status%20dashboard)](https://github.com/thomasleplus/actions-dashboard/blob/main/dashboard.md)
+[![Repos status dashboard](https://img.shields.io/badge/Repos-Dashboard-blue)](https://github.com/thomasleplus/actions-dashboard/blob/main/dashboard.md)
