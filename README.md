@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there :wave:
 
 <p align="center">
   <img src="https://github.com/thomasleplus/thomasleplus/blob/main/banner.jpg?raw=true" alt="Banner"/>
@@ -10,8 +10,8 @@ I am a proud member and contributor to the [OpenSSF (Linux Foundation)](https://
 
 If you want to know more about me or contact me, you can find me on:
 
-- [my site](https://www.leplus.org) 🏠
-- [my resume](https://www.leplus.org/files/resume.pdf) 📜
-- [LinkedIn](https://www.linkedin.com/in/thomasleplus) 💼
+- [my site](https://www.leplus.org) :house:
+- [my resume](https://www.leplus.org/files/resume.pdf) :scroll:
+- [LinkedIn](https://www.linkedin.com/in/thomasleplus) :briefcase:
 
 [![Repos status dashboard](https://img.shields.io/badge/Repos-Dashboard-blue)](https://github.com/thomasleplus/actions-dashboard/blob/main/dashboard.md)
