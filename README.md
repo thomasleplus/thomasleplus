@@ -15,3 +15,15 @@ If you want to know more about me or contact me, you can find me on:
 - [LinkedIn](https://www.linkedin.com/in/thomasleplus) :briefcase:
 
 [![Repos status dashboard](https://img.shields.io/badge/Repos-Dashboard-blue)](https://github.com/thomasleplus/actions-dashboard/blob/main/dashboard.md)
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## Security
+
+Please read [SECURITY.md](SECURITY.md) for details on our security policy and how to report security vulnerabilities.
+
+## Code of Conduct
+
+Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct.
